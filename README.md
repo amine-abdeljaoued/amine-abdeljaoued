@@ -1,7 +1,7 @@
 #### <div align="center">I'm Amine, a graduate student in Computational Biology at Harvard, with a BS in Mathematics and Computer Science from Ecole Polytechnique.</div>  
   
 
-Passionate about applications of Machine Learning and Data Science to Biology and Health 🖥️🧬  
+Passionate about applications of Machine Learning and Data Science to Biology and Health 🖥️🧬.
   
 
 <br/>  
@@ -59,6 +59,3 @@ Passionate about applications of Machine Learning and Data Science to Biology an
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br/>  
-<div align="center"></div>
