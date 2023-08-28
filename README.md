@@ -1,4 +1,4 @@
-#### <div align="center">I'm Amine, a graduate student in Computational Biology at Harvard, with a BS in Mathematics and Computer Science from Ecole Polytechnique.</div>  
+#### <div align="center">I'm Amine, a Sr. Research Associate in Data Science at Moderna with a MS in Computational Biology from Harvard and a BS in Mathematics and Computer Science from Ecole Polytechnique.</div>  
   
 
 Passionate about applications of Machine Learning and Data Science to Biology and Health 🖥️🧬.
