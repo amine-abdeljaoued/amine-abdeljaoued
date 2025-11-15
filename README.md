@@ -1,4 +1,4 @@
-#### <div align="center">I'm Amine, an Associate Data Scientist at Moderna with a MS in Computational Biology from Harvard and a BS in Mathematics and Computer Science with a minor in Biology from Ecole Polytechnique.</div>  
+#### <div align="center">I'm Amine, a Scientist in Data Science & AI at Moderna with a MS in Computational Biology from Harvard and a BS in Mathematics and Computer Science with a minor in Biology from Ecole Polytechnique.</div>  
   
 
 Passionate about applications of Machine Learning and Data Science to Biology and Health 🖥️🧬.
